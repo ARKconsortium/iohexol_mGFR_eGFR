@@ -1,17 +1,17 @@
-##The African Research on Kidney Disease (ARK) Consortium 
+# The African Research on Kidney Disease (ARK) Consortium 
 
 <p align="center" width="100%" height="50%" width="50%"><img width="33%" src="ARK.png"> </p>
 
 This GitHub page contains code, input and output data associated with the [ARK study]. For a description of the study design refer to the published protocol paper (https://doi.org/10.1186/s12882-020-1688-0).
 
-### Measurement of kidney function in Malawi, South Africa, and Uganda: a multi centre cohort study
+## Measurement of kidney function in Malawi, South Africa, and Uganda: a multi centre cohort study
 
 **Authors:** June Fabian*, Robert Kalyesubula*, Joseph Mkandawire, Christian Holm Hansen, Dorothea Nitsch, Eustasius Musenge, Wisdom P Nakanga, Josephine E Prynn, Gavin Dreyer, Tracy Snyman, Billy Ssebunnya, Michele Ramsay, Liam Smeeth, Stephen Tollman, Saraladevi Naicker, Amelia Crampin, Robert Newton, Jaya A George, Laurie Tomlinson, on behalf of the ARK Consortium. *Joint first authors
 
 **Programming contributor:** Paris Baptiste
 
 
-**About the study**
+### About the study
 The African Research on Kidney Disease (ARK) Consortium  is a multicentre partnership between Malawi, South Africa, Uganda, and the United Kingdom. The study sites for the ARK Consortium are nested within population cohorts hosted by the Malawi Epidemiology and Intervention Research Unit (MEIRU), the Medical Research Council/Uganda Virus Research Institute (MRC/UVRI) and London School of Hygiene and Tropical Medicine (LSHTM) Uganda Research Unit; and the Medical Research Council/Wits University Rural Public Health and Health Transitions Research Unit, South Africa. 
 Our primary objectives were to determine chronic kidney disease (CKD) prevalence (estimated from serum creatinine), identify associated risk factors, and investigate the most accurate way to assess kidney function in African populations. Each partner country conducted their own population-based study to determine CKD prevalence and associated risk factors: Malawi (N=5264); South Africa (N=2020); and Uganda (N=5979). These cohorts comprised the source from which we sampled the *Iohexol Measured GFR Study.* 
 
