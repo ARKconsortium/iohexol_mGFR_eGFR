@@ -1,4 +1,4 @@
-#The African Research on Kidney Disease (ARK) Consortium 
+##The African Research on Kidney Disease (ARK) Consortium 
 
 <p align="center" width="100%" height="50%" width="50%"><img width="33%" src="ARK.png"> </p>
 
